@@ -1,0 +1,110 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+main{
+    background-color: whitesmoke;
+    margin: 0px;
+    padding: 60px;
+}
+
+
+.fb{
+    color: #0866FF;
+    margin: 10px;
+    padding: 15px;
+    font-size: 3.5rem
+    }
+    
+  .bor{
+ background-color: white;
+ height: 28rem;
+ width: 30rem;
+ border: 2px solid white;
+ border-radius: 15px;
+  justify-content: center;
+ padding: 22px;
+ font-size: 25px;
+      }
+ 
+ .first{
+     font-size: 27.3px;
+     margin: 22px;
+     border-radius: 7px;
+     padding: 13px;
+  padding-right: 0px;
+  padding-left: 10px;
+  border: 2px solid whitesmoke;
+  outline: 2px solid lightgrey;
+  margin-bottom: 12px;
+ }
+ .second{
+     font-size: 26.5px;
+     border-radius: 7px;
+     padding: 13px;
+     padding-left: 10px;
+     margin: 0px;
+     border: 2px solid whitesmoke;
+     outline: 2px solid lightgrey;
+ }
+ 
+ .third{
+     font-size: 27px;
+     background-color: #0866FF;
+     margin: 14px;
+     padding-right: 180px;
+     padding-left: 180px;
+     padding-bottom: 12px;
+     padding-top: 12px;
+     color: white;
+ }
+ .blue{
+     font-size: 20px;
+     color: #0866FF;
+ }
+ a{
+ 
+     text-decoration: none;
+ }
+ a:hover{
+    color: #0866FF;
+ }
+ a:visited{
+     color: #0866FF;
+ }
+ .white{
+     color: white;
+ }
+ .grey{
+     color: grey;
+     font-size: 18px;
+     margin: 15px;
+     
+ }
+ .create{
+     background-color: limegreen;
+     color: white;
+     padding: 15px;
+     margin: 0px;
+     border-radius: 7px;
+    
+     }
+     
+   .space{
+       font-size: 14px;
+       word-spacing: 4px;
+       text-indent: 30px;
+   }
+   .line{
+       margin-left: 29px;
+       margin-right: 29px;
+     
+   }
+   .bold{
+       font-size: 14px;
+       text-align: justify;
+       word-spacing: 4px;
+       text-indent: 30px;
+   }
+ 
+ 
